@@ -1,0 +1,9 @@
+{
+  "name": "Rexie",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/Rexie/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project Rexie --web",
+  "targets": {}
+}

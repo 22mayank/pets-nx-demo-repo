@@ -1,0 +1,9 @@
+{
+  "name": "pet-toys",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/pets-toys/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project pet-toys --web",
+  "targets": {}
+}
